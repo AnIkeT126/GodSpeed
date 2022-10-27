@@ -1,5 +1,6 @@
 ## Heart Disease Classifier
 
+[CHECKOUT](https://aniket126.github.io/GodSpeed/Heart%20Disease%20Classifier.html) THE PROJECT.
 ## Project Overview
 
 
